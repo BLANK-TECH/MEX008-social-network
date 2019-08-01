@@ -9,7 +9,11 @@
     "source": "functions"
   },
   "hosting": {
+<<<<<<< HEAD
     "public": "",
+=======
+    "public": "public",
+>>>>>>> 44ae7fa3f1144d8db73694902f4529ee3041675e
     "ignore": [
       "firebase.json",
       "**/.*",
