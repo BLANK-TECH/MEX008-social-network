@@ -15,4 +15,3 @@ let pasarRegistro = () => {
 document.getElementById("pasar-registro").addEventListener("click",pasarRegistro);
 
 
-
