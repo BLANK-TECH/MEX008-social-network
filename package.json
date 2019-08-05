@@ -27,7 +27,8 @@
     "htmlhint": "^0.11.0",
     "jest": "^24.8.0",
     "regenerator-runtime": "^0.13.1",
-    "serve": "^11.0.2"
+    "serve": "^11.0.2",
+    "xxxxx": "^1.0.3"
   },
   "dependencies": {
     "@types/uuid": "^3.4.5",
